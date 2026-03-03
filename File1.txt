@@ -1,0 +1,8 @@
+dsd
+adcadc
+
+github
+gitlab
+bitbucket
+
+git init -> online set -> changes stage
